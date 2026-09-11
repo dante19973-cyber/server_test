@@ -1,0 +1,7 @@
+# Project exclude paths
+/node_modules/
+/node_modules/express/LICENSE
+/node_modules/express/Readme.md
+/node_modules/multer/LICENSE
+/node_modules/multer/node_modules/
+/node_modules/multer/README.md
